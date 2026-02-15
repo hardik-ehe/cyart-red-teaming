@@ -12,7 +12,8 @@ Each practical includes:
 
 ## 📊 Week 2 Red Teaming Workflow
 
-![Week 2 Red Teaming Workflow](Screenshots/A_flowchart_infographic_illustrates_the_sequence_o.png)
+![Uploading ChatGPT Image Feb 15, 2026, 10_59_51 PM.png…]()
+
 
 The flowchart illustrates the sequence of practicals:
 1. Threat Hunting  
